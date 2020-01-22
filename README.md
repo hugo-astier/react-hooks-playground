@@ -1,7 +1,5 @@
 [Demo on Heroku here](https://aqueous-river-27979.herokuapp.com/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Setup
 
 Install dependancies: `npm i`
