@@ -16,7 +16,7 @@ They include these concepts:
 
 ## Demo
 
-[Demo available here on Heroku](https://aqueous-river-27979.herokuapp.com/) <br>
+[Demo available here on Heroku](https://demo-react-hooks.herokuapp.com/) <br>
 (There is a normal small delay the first time loading the app due to "waking-up" the Heroku dyno ([more info here](https://devcenter.heroku.com/articles/free-dyno-hours#dyno-sleeping)))
 
 ## Setup
