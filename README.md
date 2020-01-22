@@ -17,7 +17,7 @@ They include these concepts:
 ## Demo
 
 [Demo available here on Heroku](https://aqueous-river-27979.herokuapp.com/) <br>
-(There is a normal small delay the first time loading the app due to "waking-up" the Heroku dyno ([more info here](https://devcenter.heroku.com/articles/free-dyno-hours#dyno-sleeping)))<br><br>
+(There is a normal small delay the first time loading the app due to "waking-up" the Heroku dyno ([more info here](https://devcenter.heroku.com/articles/free-dyno-hours#dyno-sleeping)))
 
 ## Setup
 
@@ -25,7 +25,7 @@ Install dependancies: `npm i`
 
 Run dev server: `npm start`
 
-## Inpiration & doc
+## Inpiration / doc
 
 [The official React doc](https://reactjs.org/docs/hooks-intro.html)
 
